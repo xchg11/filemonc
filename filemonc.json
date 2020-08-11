@@ -1,0 +1,10 @@
+{
+	"Filemonc": {
+		"FmoncPath": ["./testmondir/","./testmondir2/"],
+		"FmoncRunScript": "./fmc_run.sh",
+		"FmoncPathLog": "./script_out.log",
+		"FmoncFormatLog":"2006-01-02 15:04:05",
+		"TypeMode":	1,
+		"DebugLog": 0
+	}
+}
